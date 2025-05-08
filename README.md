@@ -47,20 +47,5 @@ A **AI-powered metaverse** offering:
 - 🌐 **Bharat 2047 Vision**: Align with national goals for innovation, sustainability, and inclusivity.  
 - 📲 **Cross-Platform**: Seamless transition between VR headsets, mobile apps, and web browsers.  
 
-## Project Status  
-🚧 **Under Active Development**  
-- Core modules completed: Heritage tours, Disha chatbot, basic collaboration tools.  
-- Next phases: Scaling sustainability hubs, integrating regional languages, stress-testing VR performance.  
-
-## Mission  
-To democratize access to India’s cultural wealth and foster a digitally literate, eco-conscious society through immersive technology. BharatVerse aims to be the catalyst for a collaborative, innovation-driven India by 2047.  
-
-## Team  
-**Digital Dragons**  
-- Pioneering the intersection of heritage and futurism -  
-
-**GitHub**: [github.com/bharatvoyage](https://github.com/bharatvoyage)  
-
-**Join us in reimagining India’s future—one virtual step at a time.**  
 
 Made with ❤️ for a Viksit Bharat.  
