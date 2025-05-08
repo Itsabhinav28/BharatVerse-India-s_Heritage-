@@ -3,7 +3,7 @@
 **Journey Through India's Heritage in Virtual Reality**  
 
 <div align="center">
-  <img src="assets/bharatverse-banner.jpg" alt="BharatVerse Banner" width="800"/>
+  <img src="public/assets/bharatverse-banner.jpg" alt="BharatVerse Banner" width="800"/>
 </div>  
 
 BharatVerse is a transformative metaverse platform designed to mirror and enhance India’s cultural, educational, and developmental experiences. Powered by AI, immersive tech, and sustainability principles, it bridges physical barriers to create a dynamic virtual ecosystem aligned with Viksit Bharat 2047’s vision.  
